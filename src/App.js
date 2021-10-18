@@ -31,10 +31,10 @@ function App() {
   
 
   const history = useHistory();
-  const fetchUrl = "https://noshvitz.herokuapp.com"
-  const localFetchUrl = "http://localhost:3000"
-  // const fetchUrl = "http://localhost:3000"
-  // const localFetchUrl = "https://noshvitz.herokuapp.com"
+  // const fetchUrl = "https://noshvitz.herokuapp.com"
+  // const localFetchUrl = "http://localhost:3000"
+  const fetchUrl = "http://localhost:3000"
+  const localFetchUrl = "https://noshvitz.herokuapp.com"
 
   
 
